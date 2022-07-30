@@ -1,3 +1,20 @@
+iris.csv
+new_iris_data.csv
+shopping_data.csv
+shopping_data_cleaned.csv
+shopping_data_cleaned.xls
+crypto_data.csv
+18_2_2.ipynb
+18_2_3.ipynb
+18_3_2_KMeans.ipynb
+18_3_3_centroids.ipynb
+18_4_1_elbow.ipynb
+18_4_2_elbowcurve.ipynb
+18_5_2_PCA.ipynb
+18_6.ipynb
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
